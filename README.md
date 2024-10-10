@@ -1,11 +1,16 @@
 # CutchUpPlatform
-## Descripción
-CutchUpPlatform es un proyecto diseñado para que los usuarios  puedan gestionar sus fuentes de noticias favoritas. Utiliza los principios de Clean Architecture y el patrón CQRS (Command Query Responsibility Segregation).
+## Members
+Marco Antonio Góngora Sánchez (u20211a085)
+Jose Manuel Pariona Lucas
+Aaron Alejandro Cruz Ticona (u202213502)
 
-Este proyecto implementa un agregado llamado FavoriteSource que permite a los usuarios guardar, actualizar, eliminar y consultar sus fuentes favoritas de noticias.
+## Description
+CutchUpPlatform is a project designed for users to manage their favorite news sources. It uses the principles of Clean Architecture and the CQRS (Command Query Responsibility Segregation) pattern.
 
-## Funcionalidades
-Agregar Fuente Favorita: Permite a los usuarios agregar una fuente de noticias a su lista de favoritas.
-Actualizar Fuente Favorita: Permite actualizar la información de una fuente favorita existente.
-Eliminar Fuente Favorita: Permite eliminar una fuente favorita de la lista del usuario.
-Consultar Fuentes Favoritas: Permite recuperar información sobre las fuentes favoritas almacenadas.
+This project implements an aggregate called FavoriteSource that allows users to save, update, delete and query their favorite news sources.
+
+## Features
+Add Favorite Source: Allows users to add a news source to their list of favorites.
+Update Favorite Source: Allows users to update the information of an existing favorite source.
+Delete Favorite Source: Allows users to delete a favorite source from the user's list.
+Consult Favorite Sources: Allows retrieving information about stored favorite sources.
